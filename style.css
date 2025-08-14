@@ -11,3 +11,14 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+.loader {
+    display: flex;
+}
+
+.loader span {
+    width: 50px;
+    height: 300px;
+    margin: 0 20px;
+    background-color: aqua;
+}
